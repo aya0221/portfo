@@ -1,4 +1,6 @@
-# portfo
-# By Aya
-
-This is a test.
+My Original Personal Website
+-languages: Python, html, css
+-frameword: flask
+-DB: MySQL
+Created the Contact Form to capture the data that the user sent and save it to MySQL.
+I used template HTML and CSS, but I edited most of the HTML parts.
