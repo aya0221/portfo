@@ -1,5 +1,5 @@
 My Original Personal Website
--languages: Python, html, css
+-languages: Python, html, JS, css
 -frameword: flask
 -DB: MySQL
 Created the Contact Form to capture the data that the user sent and save it to MySQL.
